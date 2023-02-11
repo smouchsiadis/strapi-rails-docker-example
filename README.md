@@ -1,0 +1,1 @@
+# strapi-rails-docker-example
